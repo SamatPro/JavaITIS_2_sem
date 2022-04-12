@@ -1,5 +1,5 @@
 package ru.kpfu.itis.security.handler;
 
-public class CustomLogoutSuccessHandler {
+public class CustomAccessDeniedHandler {
     //todo
 }
